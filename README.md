@@ -1,2 +1,2 @@
-# Model-1-Image-CNN
+# Model_1-Image_CNN
 deteksi bahan makanan mentah
