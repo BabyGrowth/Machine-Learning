@@ -1,0 +1,37 @@
+Item,Bahan,Energi (kkal),Karbohidrat,Lemak,Protein,Serat,Air (%),Kalsium (mg),Fosfor (mg)
+apple,Apel,58,14.9,0.4,0.3,2.6,84.1,6,10
+banana,Pisang,108,24.3,0.8,1,1.9,72.9,20,30
+beetroot,Bit,41,9.6,0.1,1.6,2.6,87.6,27,43
+bell pepper,Paprika,20,4.64,0.17,0.86,1.7,92,10,15
+cabbage,Kubis/Kol,51,8,0,2.5,3.4,89.8,100,23
+capsium,Kapsium,31,6,0.3,1,2.1,92,7,17
+carrot,Wortel,36,7.8,0.6,1,1,89.9,45,74
+cauliflower,Kembang Kol,25,4.9,0.2,2.4,1.6,91.7,22,72
+chilli pepper,Cabai,36,7.3,0.3,1,1.4,90.9,29,24
+corn,Jagung,147,31.5,0.7,5.1,1.3,61.8,6,122
+cucumber,Timun,8,1.4,0.2,0.2,0.3,97.9,29,95
+eggplant,Terong,28,5.5,0.2,1.1,2.1,92.7,15,37
+garlic,Bawang Putih,112,21.3,0.2,4.5,0.6,71,42,134
+ginger,Jahe,51,10.1,1,1.5,12,55,21,39
+grapes,Anggur,30,6.8,0.2,0.5,1.2,92.3,39,12
+jalapeno,Jalapeno,29,6.5,0.37,0.91,2.8,91.7,12,26
+kiwi,Kiwi,61,14.66,0.52,1.14,3,83.07,34,34
+lemon,Lemon,34,6.2,0.8,0.5,0.1,92.2,23,20
+lettuce,Selada,18,2.9,0.2,1.2,1.8,94.8,22,25
+mango,Mangga,52,12.3,0,0.7,1.6,86.6,20,16
+onion,Bawang Bombay,43,10.3,0.2,1.4,2,87.5,32,44
+orange,Jeruk,45,11.2,0.2,0.9,1.4,87.2,33,23
+paprika,Paprika,31,7.18,0.36,1.18,2.4,91.9,6,17
+pear,Pir,57,15.23,0.14,0.36,3.1,83.96,9,12
+peas,Kacang Polong,37,7.9,0.2,3.1,2.5,88.5,103,126
+pineapple,Nanas,40,9.9,0.3,0.6,0.6,88.9,22,14
+pomegranate,Delima,83,18.7,1.17,1.67,4,78,10,36
+potato,Kentang,62,13.5,0.2,2.1,0.5,83.4,62,58
+raddish,Lobak,16,3.4,0.1,0.68,1.6,95.3,25,20
+soy beans,Kacang Kedelai,286,30.1,15.6,30.2,2.9,20,196,506
+spinach,Bayam,16,2.9,0.4,0.9,0.7,94.5,166,76
+sweetcorn,Jagung Manis,86,19,1.18,3.22,2.7,76,2,89
+sweetpotato,Ubi,119,25.1,0.4,0.5,4.2,72.6,30,40
+tomato,Tomat,24,4.7,0.5,1.3,1.5,92.9,8,77
+turnip,Lobak,28,6.43,0.1,0.9,1.8,91.9,30,27
+watermelon,Semangka,28,6.9,0.2,0.5,9.4,92.1,7,12
