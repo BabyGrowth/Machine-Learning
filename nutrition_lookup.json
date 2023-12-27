@@ -1,0 +1,470 @@
+{
+    "apple": {
+        "translation": "Apel",
+        "nutrition_facts": {
+            "Energi (kkal)": 58,
+            "Karbohidrat": 14.9,
+            "Lemak": 0.4,
+            "Protein": 0.3,
+            "Serat": 2.6,
+            "Air (%)": 84.1,
+            "Kalsium (mg)": 6,
+            "Fosfor (mg)": 10
+        }
+    },
+    "banana": {
+        "translation": "Pisang",
+        "nutrition_facts": {
+            "Energi (kkal)": 108,
+            "Karbohidrat": 24.3,
+            "Lemak": 0.8,
+            "Protein": 1.0,
+            "Serat": 1.9,
+            "Air (%)": 72.9,
+            "Kalsium (mg)": 20,
+            "Fosfor (mg)": 30
+        }
+    },
+    "beetroot": {
+        "translation": "Bit",
+        "nutrition_facts": {
+            "Energi (kkal)": 41,
+            "Karbohidrat": 9.6,
+            "Lemak": 0.1,
+            "Protein": 1.6,
+            "Serat": 2.6,
+            "Air (%)": 87.6,
+            "Kalsium (mg)": 27,
+            "Fosfor (mg)": 43
+        }
+    },
+    "bell pepper": {
+        "translation": "Paprika",
+        "nutrition_facts": {
+            "Energi (kkal)": 20,
+            "Karbohidrat": 4.64,
+            "Lemak": 0.17,
+            "Protein": 0.86,
+            "Serat": 1.7,
+            "Air (%)": 92.0,
+            "Kalsium (mg)": 10,
+            "Fosfor (mg)": 15
+        }
+    },
+    "cabbage": {
+        "translation": "Kubis/Kol",
+        "nutrition_facts": {
+            "Energi (kkal)": 51,
+            "Karbohidrat": 8.0,
+            "Lemak": 0.0,
+            "Protein": 2.5,
+            "Serat": 3.4,
+            "Air (%)": 89.8,
+            "Kalsium (mg)": 100,
+            "Fosfor (mg)": 23
+        }
+    },
+    "capsium": {
+        "translation": "Kapsium",
+        "nutrition_facts": {
+            "Energi (kkal)": 31,
+            "Karbohidrat": 6.0,
+            "Lemak": 0.3,
+            "Protein": 1.0,
+            "Serat": 2.1,
+            "Air (%)": 92.0,
+            "Kalsium (mg)": 7,
+            "Fosfor (mg)": 17
+        }
+    },
+    "carrot": {
+        "translation": "Wortel",
+        "nutrition_facts": {
+            "Energi (kkal)": 36,
+            "Karbohidrat": 7.8,
+            "Lemak": 0.6,
+            "Protein": 1.0,
+            "Serat": 1.0,
+            "Air (%)": 89.9,
+            "Kalsium (mg)": 45,
+            "Fosfor (mg)": 74
+        }
+    },
+    "cauliflower": {
+        "translation": "Kembang Kol",
+        "nutrition_facts": {
+            "Energi (kkal)": 25,
+            "Karbohidrat": 4.9,
+            "Lemak": 0.2,
+            "Protein": 2.4,
+            "Serat": 1.6,
+            "Air (%)": 91.7,
+            "Kalsium (mg)": 22,
+            "Fosfor (mg)": 72
+        }
+    },
+    "chilli pepper": {
+        "translation": "Cabai",
+        "nutrition_facts": {
+            "Energi (kkal)": 36,
+            "Karbohidrat": 7.3,
+            "Lemak": 0.3,
+            "Protein": 1.0,
+            "Serat": 1.4,
+            "Air (%)": 90.9,
+            "Kalsium (mg)": 29,
+            "Fosfor (mg)": 24
+        }
+    },
+    "corn": {
+        "translation": "Jagung",
+        "nutrition_facts": {
+            "Energi (kkal)": 147,
+            "Karbohidrat": 31.5,
+            "Lemak": 0.7,
+            "Protein": 5.1,
+            "Serat": 1.3,
+            "Air (%)": 61.8,
+            "Kalsium (mg)": 6,
+            "Fosfor (mg)": 122
+        }
+    },
+    "cucumber": {
+        "translation": "Timun",
+        "nutrition_facts": {
+            "Energi (kkal)": 8,
+            "Karbohidrat": 1.4,
+            "Lemak": 0.2,
+            "Protein": 0.2,
+            "Serat": 0.3,
+            "Air (%)": 97.9,
+            "Kalsium (mg)": 29,
+            "Fosfor (mg)": 95
+        }
+    },
+    "eggplant": {
+        "translation": "Terong",
+        "nutrition_facts": {
+            "Energi (kkal)": 28,
+            "Karbohidrat": 5.5,
+            "Lemak": 0.2,
+            "Protein": 1.1,
+            "Serat": 2.1,
+            "Air (%)": 92.7,
+            "Kalsium (mg)": 15,
+            "Fosfor (mg)": 37
+        }
+    },
+    "garlic": {
+        "translation": "Bawang Putih",
+        "nutrition_facts": {
+            "Energi (kkal)": 112,
+            "Karbohidrat": 21.3,
+            "Lemak": 0.2,
+            "Protein": 4.5,
+            "Serat": 0.6,
+            "Air (%)": 71.0,
+            "Kalsium (mg)": 42,
+            "Fosfor (mg)": 134
+        }
+    },
+    "ginger": {
+        "translation": "Jahe",
+        "nutrition_facts": {
+            "Energi (kkal)": 51,
+            "Karbohidrat": 10.1,
+            "Lemak": 1.0,
+            "Protein": 1.5,
+            "Serat": 12.0,
+            "Air (%)": 55.0,
+            "Kalsium (mg)": 21,
+            "Fosfor (mg)": 39
+        }
+    },
+    "grapes": {
+        "translation": "Anggur",
+        "nutrition_facts": {
+            "Energi (kkal)": 30,
+            "Karbohidrat": 6.8,
+            "Lemak": 0.2,
+            "Protein": 0.5,
+            "Serat": 1.2,
+            "Air (%)": 92.3,
+            "Kalsium (mg)": 39,
+            "Fosfor (mg)": 12
+        }
+    },
+    "jalapeno": {
+        "translation": "Jalapeno",
+        "nutrition_facts": {
+            "Energi (kkal)": 29,
+            "Karbohidrat": 6.5,
+            "Lemak": 0.37,
+            "Protein": 0.91,
+            "Serat": 2.8,
+            "Air (%)": 91.7,
+            "Kalsium (mg)": 12,
+            "Fosfor (mg)": 26
+        }
+    },
+    "kiwi": {
+        "translation": "Kiwi",
+        "nutrition_facts": {
+            "Energi (kkal)": 61,
+            "Karbohidrat": 14.66,
+            "Lemak": 0.52,
+            "Protein": 1.14,
+            "Serat": 3.0,
+            "Air (%)": 83.07,
+            "Kalsium (mg)": 34,
+            "Fosfor (mg)": 34
+        }
+    },
+    "lemon": {
+        "translation": "Lemon",
+        "nutrition_facts": {
+            "Energi (kkal)": 34,
+            "Karbohidrat": 6.2,
+            "Lemak": 0.8,
+            "Protein": 0.5,
+            "Serat": 0.1,
+            "Air (%)": 92.2,
+            "Kalsium (mg)": 23,
+            "Fosfor (mg)": 20
+        }
+    },
+    "lettuce": {
+        "translation": "Selada",
+        "nutrition_facts": {
+            "Energi (kkal)": 18,
+            "Karbohidrat": 2.9,
+            "Lemak": 0.2,
+            "Protein": 1.2,
+            "Serat": 1.8,
+            "Air (%)": 94.8,
+            "Kalsium (mg)": 22,
+            "Fosfor (mg)": 25
+        }
+    },
+    "mango": {
+        "translation": "Mangga",
+        "nutrition_facts": {
+            "Energi (kkal)": 52,
+            "Karbohidrat": 12.3,
+            "Lemak": 0.0,
+            "Protein": 0.7,
+            "Serat": 1.6,
+            "Air (%)": 86.6,
+            "Kalsium (mg)": 20,
+            "Fosfor (mg)": 16
+        }
+    },
+    "onion": {
+        "translation": "Bawang Bombay",
+        "nutrition_facts": {
+            "Energi (kkal)": 43,
+            "Karbohidrat": 10.3,
+            "Lemak": 0.2,
+            "Protein": 1.4,
+            "Serat": 2.0,
+            "Air (%)": 87.5,
+            "Kalsium (mg)": 32,
+            "Fosfor (mg)": 44
+        }
+    },
+    "orange": {
+        "translation": "Jeruk",
+        "nutrition_facts": {
+            "Energi (kkal)": 45,
+            "Karbohidrat": 11.2,
+            "Lemak": 0.2,
+            "Protein": 0.9,
+            "Serat": 1.4,
+            "Air (%)": 87.2,
+            "Kalsium (mg)": 33,
+            "Fosfor (mg)": 23
+        }
+    },
+    "paprika": {
+        "translation": "Paprika",
+        "nutrition_facts": {
+            "Energi (kkal)": 31,
+            "Karbohidrat": 7.18,
+            "Lemak": 0.36,
+            "Protein": 1.18,
+            "Serat": 2.4,
+            "Air (%)": 91.9,
+            "Kalsium (mg)": 6,
+            "Fosfor (mg)": 17
+        }
+    },
+    "pear": {
+        "translation": "Pir",
+        "nutrition_facts": {
+            "Energi (kkal)": 57,
+            "Karbohidrat": 15.23,
+            "Lemak": 0.14,
+            "Protein": 0.36,
+            "Serat": 3.1,
+            "Air (%)": 83.96,
+            "Kalsium (mg)": 9,
+            "Fosfor (mg)": 12
+        }
+    },
+    "peas": {
+        "translation": "Kacang Polong",
+        "nutrition_facts": {
+            "Energi (kkal)": 37,
+            "Karbohidrat": 7.9,
+            "Lemak": 0.2,
+            "Protein": 3.1,
+            "Serat": 2.5,
+            "Air (%)": 88.5,
+            "Kalsium (mg)": 103,
+            "Fosfor (mg)": 126
+        }
+    },
+    "pineapple": {
+        "translation": "Nanas",
+        "nutrition_facts": {
+            "Energi (kkal)": 40,
+            "Karbohidrat": 9.9,
+            "Lemak": 0.3,
+            "Protein": 0.6,
+            "Serat": 0.6,
+            "Air (%)": 88.9,
+            "Kalsium (mg)": 22,
+            "Fosfor (mg)": 14
+        }
+    },
+    "pomegranate": {
+        "translation": "Delima",
+        "nutrition_facts": {
+            "Energi (kkal)": 83,
+            "Karbohidrat": 18.7,
+            "Lemak": 1.17,
+            "Protein": 1.67,
+            "Serat": 4.0,
+            "Air (%)": 78.0,
+            "Kalsium (mg)": 10,
+            "Fosfor (mg)": 36
+        }
+    },
+    "potato": {
+        "translation": "Kentang",
+        "nutrition_facts": {
+            "Energi (kkal)": 62,
+            "Karbohidrat": 13.5,
+            "Lemak": 0.2,
+            "Protein": 2.1,
+            "Serat": 0.5,
+            "Air (%)": 83.4,
+            "Kalsium (mg)": 62,
+            "Fosfor (mg)": 58
+        }
+    },
+    "raddish": {
+        "translation": "Lobak",
+        "nutrition_facts": {
+            "Energi (kkal)": 16,
+            "Karbohidrat": 3.4,
+            "Lemak": 0.1,
+            "Protein": 0.68,
+            "Serat": 1.6,
+            "Air (%)": 95.3,
+            "Kalsium (mg)": 25,
+            "Fosfor (mg)": 20
+        }
+    },
+    "soy beans": {
+        "translation": "Kacang Kedelai",
+        "nutrition_facts": {
+            "Energi (kkal)": 286,
+            "Karbohidrat": 30.1,
+            "Lemak": 15.6,
+            "Protein": 30.2,
+            "Serat": 2.9,
+            "Air (%)": 20.0,
+            "Kalsium (mg)": 196,
+            "Fosfor (mg)": 506
+        }
+    },
+    "spinach": {
+        "translation": "Bayam",
+        "nutrition_facts": {
+            "Energi (kkal)": 16,
+            "Karbohidrat": 2.9,
+            "Lemak": 0.4,
+            "Protein": 0.9,
+            "Serat": 0.7,
+            "Air (%)": 94.5,
+            "Kalsium (mg)": 166,
+            "Fosfor (mg)": 76
+        }
+    },
+    "sweetcorn": {
+        "translation": "Jagung Manis",
+        "nutrition_facts": {
+            "Energi (kkal)": 86,
+            "Karbohidrat": 19.0,
+            "Lemak": 1.18,
+            "Protein": 3.22,
+            "Serat": 2.7,
+            "Air (%)": 76.0,
+            "Kalsium (mg)": 2,
+            "Fosfor (mg)": 89
+        }
+    },
+    "sweetpotato": {
+        "translation": "Ubi",
+        "nutrition_facts": {
+            "Energi (kkal)": 119,
+            "Karbohidrat": 25.1,
+            "Lemak": 0.4,
+            "Protein": 0.5,
+            "Serat": 4.2,
+            "Air (%)": 72.6,
+            "Kalsium (mg)": 30,
+            "Fosfor (mg)": 40
+        }
+    },
+    "tomato": {
+        "translation": "Tomat",
+        "nutrition_facts": {
+            "Energi (kkal)": 24,
+            "Karbohidrat": 4.7,
+            "Lemak": 0.5,
+            "Protein": 1.3,
+            "Serat": 1.5,
+            "Air (%)": 92.9,
+            "Kalsium (mg)": 8,
+            "Fosfor (mg)": 77
+        }
+    },
+    "turnip": {
+        "translation": "Lobak",
+        "nutrition_facts": {
+            "Energi (kkal)": 28,
+            "Karbohidrat": 6.43,
+            "Lemak": 0.1,
+            "Protein": 0.9,
+            "Serat": 1.8,
+            "Air (%)": 91.9,
+            "Kalsium (mg)": 30,
+            "Fosfor (mg)": 27
+        }
+    },
+    "watermelon": {
+        "translation": "Semangka",
+        "nutrition_facts": {
+            "Energi (kkal)": 28,
+            "Karbohidrat": 6.9,
+            "Lemak": 0.2,
+            "Protein": 0.5,
+            "Serat": 9.4,
+            "Air (%)": 92.1,
+            "Kalsium (mg)": 7,
+            "Fosfor (mg)": 12
+        }
+    }
+}
